@@ -1,6 +1,6 @@
 # cheminformatics_drug_discovery
 A hands-on implementation of cheminformatics workflows using RDKit, molecular descriptors, fingerprints, and machine learning models for bioactivity prediction.
-Project Overview
+# Project Overview
 
 This repository documents my hands-on learning journey in computational drug discovery and cheminformatics using machine learning. The project follows the tutorial series “Drug Discovery using Machine Learning” by Festus, while implementing the concepts through practical coding exercises and experiments using Python.
 
@@ -14,7 +14,7 @@ The later stages of the project focus on model evaluation, feature importance an
 
 Overall, this repository serves as a practical guide to modern cheminformatics and machine learning techniques used in drug discovery, providing structured notebooks and code implementations that illustrate the complete pipeline from raw molecular data to predictive models.
 
-Learning Objectives
+# Learning Objectives
 
 Through this project, the following skills are developed:
 
@@ -36,7 +36,7 @@ Evaluating model performance using cross-validation and ROC analysis
 
 Applying models for virtual screening of new compounds
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -50,6 +50,6 @@ Matplotlib
 
 Jupyter Notebook
 
-Repository Purpose
+# Repository Purpose
 
 This repository serves as a learning portfolio in computational drug discovery, demonstrating the application of cheminformatics and machine learning techniques to analyze chemical structures and predict biological activity.
